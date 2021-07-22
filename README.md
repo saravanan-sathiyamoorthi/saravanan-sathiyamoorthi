@@ -16,5 +16,5 @@ I'm a Student at PSG College Of Arts and Science, Coimbatore , India
 
 ## Projects :
 
-<li>Sorting Visualizer  0️⃣➡9️⃣
-<li>Little Saro AI (in Progress) 🧠
+1. Sorting Visualizer  0️⃣➡9️⃣
+2. Little Saro AI (in Progress) 🧠
