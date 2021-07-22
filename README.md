@@ -22,5 +22,5 @@ I'm a Student at PSG College Of Arts and Science, Coimbatore , India
 
 ## Socials
 
-Twitter [@saro_saravanan](https://twitter.com/saro_saravanan)
-LinkedIN [saravanan-sathiyamoorthi](https://www.linkedin.com/in/saravanan-sathiyamoorthi/)
+ Twitter [@saro_saravanan](https://twitter.com/saro_saravanan)
+ LinkedIN [saravanan-sathiyamoorthi](https://www.linkedin.com/in/saravanan-sathiyamoorthi/)
