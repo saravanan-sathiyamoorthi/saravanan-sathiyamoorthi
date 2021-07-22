@@ -12,3 +12,9 @@ You can click the Preview link to take a look at your changes.
 ## About :
 
 I'm a Student at PSG College Of Arts and Science, Coimbatore , India
+
+
+### Projects :
+
+1.Sorting Visualizer 
+2. Little Saro AI (in Progress)
