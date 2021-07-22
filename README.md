@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hi, I’m Saravanan Sathiyamoorthi
 
----
-
 
 I'm a Student at PSG College Of Arts and Science, Coimbatore , India.
 - 👀 I’m interested in ...Web development
