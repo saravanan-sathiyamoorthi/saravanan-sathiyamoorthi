@@ -15,7 +15,8 @@ I'm a Student at PSG College Of Arts and Science, Coimbatore , India.
 ## Projects :
 
 1. Sorting Visualizer  0️⃣➡9️⃣
-2. Little Saro AI (in Progress) 🧠
+2. Emotion Updater (in progress)
+3. Airline Management (initial plan)
 
 
 ## Socials
